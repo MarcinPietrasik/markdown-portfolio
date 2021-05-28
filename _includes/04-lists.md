@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My view favorite things:
+* Boardgames
+* Wargames
+* 3D printing
+* Coding
+* SF books
